@@ -1,0 +1,11 @@
+{
+  "name": "quake-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "express": "*",
+    "json2csv": "*",
+    "pg": "*"
+  }
+}
